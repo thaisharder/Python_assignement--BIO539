@@ -13,7 +13,7 @@ sequence_select: this function will read a specific file with an input filename 
 
 Counting_kmers: this function will calculate the occurence of k-mers in a specific sequence (read)
 
-pdframe_kmers this function will create a dataframe (similar to a table) that contains possible k-mers and observed k-mers from a specific sequence.
+pdframe_kmers: this function will create a dataframe (similar to a table) that contains possible k-mers and observed k-mers from a specific sequence.
 K_obs = observed kmers
 k_pos = possible kmers 
 To create the dataframe it is necessary to "import panda as pd" by the end of the function.
